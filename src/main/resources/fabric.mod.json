@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://cube135.de/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/CubE135/dispense-cauldron-fluid"
 	},
 	"license": "MIT",
 	"icon": "assets/dispense-cauldron-fluid/icon.png",
