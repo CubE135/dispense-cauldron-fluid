@@ -3,7 +3,7 @@
 	"id": "dispense-cauldron-fluid",
 	"version": "${version}",
 	"name": "Dispense Cauldron Fluid",
-	"description": "This mod allows Dispenser to push and pull liquids into and out of Cauldrons using buckets.",
+	"description": "This Mod allows Dispenser to push and pull liquids into and out of Cauldrons using buckets.",
 	"authors": [
 		"CubE135!"
 	],
